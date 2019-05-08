@@ -12,6 +12,7 @@ o	Green LED’s (4 pieces)
 o	220 ohm resistors (12 pieces)
 o	Jumper cables
 o	Breadboards
+
 Circuit Diagram for Arduino Traffic Light Controller
 
 There are total of 12 LED’s used in this project. Each signal has 3 LED’s (Red, Yellow and Green) connected to it through the 220 ohm resistors. The resistors are used to limit the current that is going to pass through the LED’s. If you won’t use the resistors then the LED’s may burn.
