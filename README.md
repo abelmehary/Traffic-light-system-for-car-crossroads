@@ -8,6 +8,7 @@ Components Required for Arduino Traffic Light Controller
 
 The components required for Arduino traffic light controller are as follows
 
+
 o	Arduino UNO
 o	Red LED’s (4 pieces)
 o	Yellow LED’s (4 pieces)
